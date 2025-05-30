@@ -729,7 +729,6 @@ iPad Air	iPadAir
 iPad mini	iPadmini
 iPad Pro	iPadPro
 IPN	IPN
-IPTV	IPTV
 iStat Menus	iStatMenus
 iTerm	iTerm
 iTerm2	iTerm2
@@ -2156,3 +2155,6 @@ integrated development environment	IDE
 TensorFlow	TensorFlow
 PyTorch	PyTorch
 DeepSeek	DeepSeek
+
+# Linux 相关
+iptables 	iptables
